@@ -64,3 +64,7 @@ for (let i = 0; i < cursosPlus.length; i++) {
       <a href="#slide${i === cursosPlus.length - 1 ? cursosPlus[0].id:cursosPlus[i].id + 1}" class="btn btn-circle">❯</a>
     </div>
   </div>
+  `
+
+  
+}
